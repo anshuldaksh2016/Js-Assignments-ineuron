@@ -1,0 +1,36 @@
+1. Explain the use of JavaScript ( or What you can do using a JavaScript)
+
+So JavaScript not limited to anything you can do n number of things using Javascript. Like we can use it for web development 
+mobile app development , blockchain development , machine learning and so on. So it is a very vast programming language .
+
+2. What is the difference between client-side and server-side?
+
+So client side is basically your browser what you see or what a normal user see is Cliend Side. Server side is backend 
+of a website . It is something that is not accessible to everyone. Anybody can see client side code but no one except the
+owner can see the backend of website.
+
+3. What is Nodejs?
+
+NodeJs is runtime enviroment for Javascript. It lets you run Javascript outside your browser. It is also a backend technology
+that lets you build backend of a website using Javascript.
+
+4.Explain Scope in JavaScript?
+
+So Scope is context/Area in which current values are being visible(For ex variable scope is the part of the program where it is availble to use).
+Say for example a varible defined with var keyword has a global scope that means that variable can be accessed from anywhere , but if u define same variable with let keyword inside 
+a function than thant function is a local scope for that varible and value of that variable will be what defined inside 
+that function.
+
+4.JavaScript is asynchronous or synchronous.
+So Javascript is bascially synchronous meaning it can execute one task at a time and you have to wait until that tasask is done 
+but there are some instances where Js behaves as asynchronous also. We can manipulate the JS in such a way that it behave asynchronous
+. For example you make a call to database for some query result . Now asynchronous callback allows you to invoke a callback function for a request
+and it will wait for the response freeing up the other code to execute.
+
+5.JavaScript is Single-threaded or Multi-threaded.
+
+Js is Single threaded programming language.
+
+6. Explain DOM in your own word.
+
+So DOM stand for document object model. DOM contains all the structure and content of a web page. (mujhe jyada smjh nhi aaya iske baare mai)
