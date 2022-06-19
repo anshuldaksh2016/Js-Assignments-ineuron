@@ -1,0 +1,43 @@
+What is lexical structure?
+
+Ans : Lexical structure of a language defines a set of rules that are written for any
+language that how should code be written. For example how to define varible name , 
+semicolon , comments , case senstitive etc.
+
+-> What is Unicode?
+
+Ans : Unicode is the standard for the text in computer processing. It provide  unique number
+for every character. You can use those number no matter what you language is.
+
+ -> Explain all the keywords present in the JavaScript with examples.
+
+Ans : Keywords are the reserved words in Js . Means you cannot use these words as 
+the identifier in Js. There are approx 63 keywords
+abstract , arguments , boolean , break , byte , case , catch
+char , const , let , if , else  else if , yield , let , continue 
+debugger , default , delete , do , while , double, eval , 
+false , final , finally , function , float for , goto , in , 
+implements, instanceof , int , interface , long,  native , new, null
+package , private , protected , public , return , short static , 
+switch , synchronized , this , transient , try , var , typeof
+ throw , throws , volatile , with.
+
+-> What are shorthand operators, explain with a suitable example?
+Ans : Shorthand operators helps us to reduce the code.
+
+for ex say x = x + y can be written as x +=y
+another ex let say a=1 , b=2 , c=3 can be written as a,b,c = 1,2,3;
+
+What is “use Strict” in JavaScript?
+
+Ans : Use Script is the mode in javascript. THe purpose of this
+is code to tell js engine that code should be executed in 
+strict mode.
+ 1. Strict mode made it easier to write secure js code.
+ 2. In strict mode any non exiting property will throw an error.
+ 3. Using a variable without decalring it will cause an error.
+ 4. using an object withot declaring it will cause error.
+ 5. Deleting a varible is not allowed.
+ 6. Deleting a fucntion is not allowed. 
+ and many more.
+
